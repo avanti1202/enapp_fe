@@ -1,0 +1,17 @@
+*
+{
+font-size: 40px;
+}
+
+body
+{
+background-color: lightpink;
+}
+
+textarea{
+resize:none;
+}
+
+.err{
+color:red;
+}
